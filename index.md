@@ -56,4 +56,4 @@ The *"Pawn's"* first move rules state each pawn has the option to move forward o
 
 Wanna Play?
 
-[`Play at Chess.com`](https://www.chess.com/ "Press Ctrl if you wish to open this link in another tab") 
+[`Play Chess`](https://www.chess.com/ "Press Ctrl if you wish to open this link in another tab") 

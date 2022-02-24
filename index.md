@@ -54,6 +54,6 @@ The *"Pawn's"* first move rules state each pawn has the option to move forward o
 
 ![Pawn's move](https://i0.wp.com/learnchess101.com///wp-content/uploads/2015/10/How-to-correctly-move-the-pawn-in-chess.png?ssl=1)
 
-Wanna Play?
+### *Wanna Play?*
 
 [`Play Chess`](https://www.chess.com/ "Press Ctrl if you wish to open this link in another tab") 

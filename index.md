@@ -53,3 +53,7 @@ The *"Horse"* moves up or down one square vertically and over two squares horizo
 The *"Pawn's"* first move rules state each pawn has the option to move forward one space or two spaces. After this move, they can only move one space forward. ... If the Pawn reaches the opposite side of the chessboard, it has the unique ability to promote to another piece. The pawn can become a Queen, Bishop, Rook, or Knight. The Pawn moves directly forward, never backward or to the side. Pawns capture a piece that is one square diagonally forward. Though Pawns normally cannot move diagonally, this is the only way they capture.
 
 ![Pawn's move](https://i0.wp.com/learnchess101.com///wp-content/uploads/2015/10/How-to-correctly-move-the-pawn-in-chess.png?ssl=1)
+
+Wanna Play?
+
+[`Play at Chess.com`](https://www.chess.com/ "Press Ctrl if you wish to open this link in another tab") 
